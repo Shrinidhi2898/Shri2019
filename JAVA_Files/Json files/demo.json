@@ -1,0 +1,186 @@
+{
+    "ROOT_REF_WINDOW": {	
+        "bottom": [],
+        "click_x": 49999.5,
+        "click_y": 49999.5,
+        "contains": [
+            "element_x0pt_y0pt"
+        ],
+        "elementName": null,
+        "height": 99999,
+        "left": [],
+        "parent": [],
+        "right": [],
+        "styleGuideX": 0,
+        "styleGuideY": 0,
+        "top": [],
+        "width": 99999
+    },
+    "element_x0pt_y0pt": {
+        "bottom": [],
+        "click_x": 180.0,
+        "click_y": 370.0,
+        "contains": [
+            "element_x80pt_y646pt",
+            "element_x151pt_y203pt",
+            "element_x316pt_y4pt",
+            "element_x34pt_y288pt"
+        ],
+        "cssStyles": {},
+        "elementName": "element_x0pt_y0pt",
+        "height": "740pt",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "0pt",
+        "styleGuideY": "0pt",
+        "text": null,
+        "top": [],
+        "width": "360pt",
+        "xMouseClickPoint": 292,
+        "yMouseClickPoint": 266
+    },
+    "element_x106pt_y659pt": {
+        "bottom": [],
+        "click_x": 181.0,
+        "click_y": 667.0,
+        "contains": [],
+        "cssStyles": {},
+        "elementName": "element_x106pt_y659pt",
+        "height": "16pt",
+        "left": [],
+        "parent": [
+            "element_x80pt_y646pt"
+        ],
+        "right": [],
+        "styleGuideX": "106pt",
+        "styleGuideY": "659pt",
+        "text": "Back to home",
+        "top": [],
+        "width": "150pt",
+        "xMouseClickPoint": 698,
+        "yMouseClickPoint": 463
+    },
+    "element_x151pt_y203pt": {
+        "bottom": [
+            "element_x34pt_y288pt"
+        ],
+        "click_x": 180.0,
+        "click_y": 232.0,
+        "contains": [
+            "element_x166.3pt_y221.9pt"
+        ],
+        "cssStyles": {},
+        "elementName": "element_x151pt_y203pt",
+        "height": "58pt",
+        "left": [],
+        "parent": [
+            "element_x0pt_y0pt"
+        ],
+        "right": [],
+        "styleGuideX": "151pt",
+        "styleGuideY": "203pt",
+        "text": null,
+        "top": [],
+        "width": "58pt",
+        "xMouseClickPoint": 684,
+        "yMouseClickPoint": 318
+    },
+    "element_x166.3pt_y221.9pt": {
+        "bottom": [],
+        "click_x": 180.05,
+        "click_y": 231.95,
+        "contains": [],
+        "cssStyles": {},
+        "elementName": "element_x166.3pt_y221.9pt",
+        "height": "20.1pt",
+        "left": [],
+        "parent": [
+            "element_x151pt_y203pt"
+        ],
+        "right": [],
+        "styleGuideX": "166.3pt",
+        "styleGuideY": "221.9pt",
+        "text": null,
+        "top": [],
+        "width": "27.5pt",
+        "xMouseClickPoint": 673,
+        "yMouseClickPoint": 293
+    },
+    "element_x316pt_y4pt": {
+        "bottom": [
+            "element_x34pt_y288pt"
+        ],
+        "click_x": 334.0,
+        "click_y": 12.0,
+        "contains": [],
+        "cssStyles": {},
+        "elementName": "element_x316pt_y4pt",
+        "height": "16pt",
+        "left": [],
+        "parent": [
+            "element_x0pt_y0pt"
+        ],
+        "right": [],
+        "styleGuideX": "316pt",
+        "styleGuideY": "4pt",
+        "text": "12:30",
+        "top": [],
+        "width": "36pt",
+        "xMouseClickPoint": 447,
+        "yMouseClickPoint": 70
+    },
+    "element_x34pt_y288pt": {
+        "bottom": [
+            "element_x80pt_y646pt"
+        ],
+        "click_x": 180.5,
+        "click_y": 316.0,
+        "contains": [],
+        "cssStyles": {},
+        "elementName": "element_x34pt_y288pt",
+        "height": "56pt",
+        "left": [],
+        "parent": [
+            "element_x0pt_y0pt"
+        ],
+        "right": [],
+        "styleGuideX": "34pt",
+        "styleGuideY": "288pt",
+        "text": "Thank you for scheduling\na payment.",
+        "top": [
+            "element_x151pt_y203pt",
+            "element_x316pt_y4pt"
+        ],
+        "width": "293pt",
+        "xMouseClickPoint": 299,
+        "yMouseClickPoint": 386
+    },
+    "element_x80pt_y646pt": {
+        "bottom": [],
+        "click_x": 180.5,
+        "click_y": 666.0,
+        "contains": [
+            "element_x106pt_y659pt"
+        ],
+        "cssStyles": {},
+        "elementName": "element_x80pt_y646pt",
+        "height": "40pt",
+        "left": [],
+        "parent": [
+            "element_x0pt_y0pt"
+        ],
+        "right": [],
+        "styleGuideX": "80pt",
+        "styleGuideY": "646pt",
+        "text": null,
+        "top": [
+            "element_x34pt_y288pt"
+        ],
+        "width": "201pt",
+        "xMouseClickPoint": 752,
+        "yMouseClickPoint": 476
+    }
+}

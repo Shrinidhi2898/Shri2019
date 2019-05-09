@@ -1,0 +1,38 @@
+{
+"element_x106pt_y659pt": {
+        
+        "styleGuideX": "106pt",
+        "styleGuideY": "659pt",
+		"contains" : [
+				"headerlayer",
+				"footerlayer"
+		
+		],
+		"cssStyles" : {
+		
+		"header":"val1",
+		"footer":"val2"
+		
+		
+		}
+      
+    },
+    "element_x151pt_y203pt": {
+        
+       
+        "styleGuideY": "203pt",
+		"contains" : [
+				"header1",
+				"footer2"
+		
+		],
+		"cssStyles" : {
+		
+				"header":"val14",
+						"footer":"val24"
+		
+		
+		}
+      
+    }
+}
